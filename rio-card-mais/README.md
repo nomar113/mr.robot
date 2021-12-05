@@ -14,5 +14,8 @@ Know keys:
 Run on Linux:
 
 ```sh
+sudo rmmod pn533
+sudo rmmod pn533_usb
+
 mfoc -P 500 -f riocard-keys -O original.dmp
 ```
