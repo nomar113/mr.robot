@@ -9,7 +9,7 @@ Know keys:
 - de1fcbec764b
 - 81bfbe8cacba
 
-![Rio Card Mais keys](/riocard.png)
+![Rio Card Mais keys](https://github.com/nomar113/mr.robot/blob/master/rio-card-mais/riocard.png)
 
 Run on Linux:
 
