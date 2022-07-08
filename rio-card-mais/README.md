@@ -8,6 +8,7 @@ Know keys:
 - ff58ba1b4478
 - de1fcbec764b
 - 81bfbe8cacba
+- 3248d5345267
 
 ![Rio Card Mais keys](https://github.com/nomar113/mr.robot/blob/master/rio-card-mais/riocard.png)
 
